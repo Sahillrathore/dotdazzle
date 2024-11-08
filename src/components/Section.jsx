@@ -8,7 +8,7 @@ const Section = () => {
         </div>
         <img src="top-wave.svg" className='absolute -top-[32rem] w-screen bg-black' />
 
-        <img src="top-reasons.svg" className='bg-black w-screen' alt="" />
+        <img src="top-reasons.svg" className='bg-black w-screen ' alt="" />
     </div>
   )
 }
