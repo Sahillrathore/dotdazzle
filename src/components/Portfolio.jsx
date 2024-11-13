@@ -4,6 +4,9 @@ const projects = [
     { title: 'Setter', img: '', stack: ["Designing", "Front-end", "Back-end"] },
     { title: 'Setter', img: '', stack: ["Designing", "Front-end", "Back-end"] },
     { title: 'Setter', img: '', stack: ["Designing", "Front-end", "Back-end"] },
+    { title: 'Setter', img: '', stack: ["Designing", "Front-end", "Back-end"] },
+    { title: 'Setter', img: '', stack: ["Designing", "Front-end", "Back-end"] },
+    { title: 'Setter', img: '', stack: ["Designing", "Front-end", "Back-end"] },
     { title: 'Setter', img: '', stack: ["Designing", "Front-end", "Back-end"] }
 ]
 
