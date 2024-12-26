@@ -5,7 +5,7 @@ const projects = [
     { title: 'Setter', img: '', stack: ["Designing", "Front-end", "Back-end"] },
     { title: 'Setter', img: '', stack: ["Designing", "Front-end", "Back-end"] },
     { title: 'Setter', img: '', stack: ["Designing", "Front-end", "Back-end"] },
-    { title: 'Setter', img: '', stack: ["Designing", "Front-end", "Back-end"] }
+    { title: 'Setter', img: '', stack: ["Designing", "FrontEnd", "Back-end"] }
 ]
 
 const Portfolio = () => {
