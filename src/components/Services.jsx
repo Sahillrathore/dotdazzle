@@ -3,17 +3,17 @@ import React from 'react'
 const services = [
     {
         title: 'Web Development',
-        desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi perferendis consequuntur harum distinctio dolores accusantium maiores illo laudantium, porro quod iure pariatur libero ab sed ut! Voluptatum delectus tempore voluptatem?',
+        desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi perferendis consequuntur harum distinctio dolores accusantium maiores illo laudantium, porro ptatem?',
         img: 'mobile.svg'
     },
     {
         title: 'Web Development',
-        desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi perferendis consequuntur harum distinctio dolores accusantium maiores illo laudantium, porro quod iure pariatur libero ab sed ut! Voluptatum delectus tempore voluptatem?',
+        desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi perferendis consequuntur harum distinctio doloresur libero ab sed ut! Voluptatum delectus tempore voluptatem?',
         img: 'mobile.svg'
     },
     {
         title: 'Web Development',
-        desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi perferendis consequuntur harum distinctio dolores accusantium maiores illo laudantium, porro quod iure pariatur libero ab sed ut! Voluptatum delectus tempore voluptatem?',
+        desc: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eligendi perferendis consequuntur harum distinctio dolores acero ab sed ut! Voluptatum delectus tempore voluptatem?',
         img: 'mobile.svg'
     },
     {
